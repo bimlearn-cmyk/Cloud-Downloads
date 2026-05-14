@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-4550",
+  "folder": "YouTube__watch_20260514062903_551a87",
+  "base_name": "How_To_Download_a_Google_Drive_File_with_IDM_HqChmlgdBJI_1080p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/bimlearn-cmyk/Cloud-Downloads/releases/tag/co-releases-v1-4550",
+  "files": [
+    {
+      "name": "How_To_Download_a_Google_Drive_File_with_IDM_HqChmlgdBJI_1080p.mp4",
+      "url": "https://github.com/bimlearn-cmyk/Cloud-Downloads/releases/download/co-releases-v1-4550/How_To_Download_a_Google_Drive_File_with_IDM_HqChmlgdBJI_1080p.mp4",
+      "api_url": "https://api.github.com/repos/bimlearn-cmyk/Cloud-Downloads/releases/assets/419942259",
+      "id": 419942259,
+      "size": 5874743,
+      "download_count": 0
+    }
+  ]
+}
