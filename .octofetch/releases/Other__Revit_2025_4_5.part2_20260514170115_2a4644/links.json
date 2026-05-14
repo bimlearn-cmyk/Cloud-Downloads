@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-2920",
+  "folder": "Other__Revit_2025_4_5.part2_20260514170115_2a4644",
+  "base_name": "Other__Revit_2025_4_5.part2_20260514170115_2a4644.rar",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/bimlearn-cmyk/Cloud-Downloads/releases/tag/co-releases-v1-2920",
+  "files": [
+    {
+      "name": "Other__Revit_2025_4_5.part2_20260514170115_2a4644.rar",
+      "url": "https://github.com/bimlearn-cmyk/Cloud-Downloads/releases/download/co-releases-v1-2920/Other__Revit_2025_4_5.part2_20260514170115_2a4644.rar",
+      "api_url": "https://api.github.com/repos/bimlearn-cmyk/Cloud-Downloads/releases/assets/420319865",
+      "id": 420319865,
+      "size": 551149362,
+      "download_count": 0
+    }
+  ]
+}
