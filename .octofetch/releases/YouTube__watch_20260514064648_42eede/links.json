@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-5115",
+  "folder": "YouTube__watch_20260514064648_42eede",
+  "base_name": "Download_any_file_from_Google_Drive_using_IDM_(Internet_Download_Manag_r5cwgrMH9hc_1080p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/bimlearn-cmyk/Cloud-Downloads/releases/tag/co-releases-v1-5115",
+  "files": [
+    {
+      "name": "Download_any_file_from_Google_Drive_using_IDM_.Internet_Download_Manag_r5cwgrMH9hc_1080p.mp4",
+      "url": "https://github.com/bimlearn-cmyk/Cloud-Downloads/releases/download/co-releases-v1-5115/Download_any_file_from_Google_Drive_using_IDM_.Internet_Download_Manag_r5cwgrMH9hc_1080p.mp4",
+      "api_url": "https://api.github.com/repos/bimlearn-cmyk/Cloud-Downloads/releases/assets/419951588",
+      "id": 419951588,
+      "size": 8017177,
+      "download_count": 0
+    }
+  ]
+}
