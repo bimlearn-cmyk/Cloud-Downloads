@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-1847",
+  "folder": "Documents__Revit_2025_4_5.part1_20260514060826_dcdd17",
+  "base_name": "Documents__Revit_2025_4_5.part1_20260514060826_dcdd17.rar",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/bimlearn-cmyk/Cloud-Downloads/releases/tag/co-releases-v1-1847",
+  "files": [
+    {
+      "name": "Documents__Revit_2025_4_5.part1_20260514060826_dcdd17.rar",
+      "url": "https://github.com/bimlearn-cmyk/Cloud-Downloads/releases/download/co-releases-v1-1847/Documents__Revit_2025_4_5.part1_20260514060826_dcdd17.rar",
+      "api_url": "https://api.github.com/repos/bimlearn-cmyk/Cloud-Downloads/releases/assets/419930168",
+      "id": 419930168,
+      "size": 2040109465,
+      "download_count": 0
+    }
+  ]
+}
