@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-8151",
+  "folder": "Other__Bimlearn_org_GraitecAdvancePowerPack2026_1ForAutodeskRevit_x64_s_20260515182015_425c41",
+  "base_name": "Other__Bimlearn_org_GraitecAdvancePowerPack2026_1ForAutodeskRevit_x64_s_20260515182015_425c41.rar",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/bimlearn-cmyk/Cloud-Downloads/releases/tag/co-releases-v1-8151",
+  "files": [
+    {
+      "name": "Other__Bimlearn_org_GraitecAdvancePowerPack2026_1ForAutodeskRevit_x64_s_20260515182015_425c41.rar",
+      "url": "https://github.com/bimlearn-cmyk/Cloud-Downloads/releases/download/co-releases-v1-8151/Other__Bimlearn_org_GraitecAdvancePowerPack2026_1ForAutodeskRevit_x64_s_20260515182015_425c41.rar",
+      "api_url": "https://api.github.com/repos/bimlearn-cmyk/Cloud-Downloads/releases/assets/421213464",
+      "id": 421213464,
+      "size": 1073741824,
+      "download_count": 0
+    }
+  ]
+}
